@@ -1,0 +1,23 @@
+# Trained model artifacts
+*.keras
+*.h5
+
+# Course materials
+*.pdf
+
+# Caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# IDE / env
+.idea/
+.vscode/
+.venv/
+venv/
+
+# Training logs / saved model directories
+image_logs/
+housing_logs/
+my_california_housing/
